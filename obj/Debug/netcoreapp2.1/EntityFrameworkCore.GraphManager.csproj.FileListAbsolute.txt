@@ -1,0 +1,6 @@
+C:\Users\Murad\source\repos\EntityFrameworkCore.GraphManager\EntityFrameworkCore.GraphManager\bin\Debug\netcoreapp2.1\EntityFrameworkCore.GraphManager.deps.json
+C:\Users\Murad\source\repos\EntityFrameworkCore.GraphManager\EntityFrameworkCore.GraphManager\bin\Debug\netcoreapp2.1\EntityFrameworkCore.GraphManager.dll
+C:\Users\Murad\source\repos\EntityFrameworkCore.GraphManager\EntityFrameworkCore.GraphManager\obj\Debug\netcoreapp2.1\EntityFrameworkCore.GraphManager.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\EntityFrameworkCore.GraphManager\EntityFrameworkCore.GraphManager\obj\Debug\netcoreapp2.1\EntityFrameworkCore.GraphManager.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\EntityFrameworkCore.GraphManager\EntityFrameworkCore.GraphManager\obj\Debug\netcoreapp2.1\EntityFrameworkCore.GraphManager.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\EntityFrameworkCore.GraphManager\EntityFrameworkCore.GraphManager\obj\Debug\netcoreapp2.1\EntityFrameworkCore.GraphManager.AssemblyInfo.cs
